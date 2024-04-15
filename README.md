@@ -1,3 +1,6 @@
+## Name: Yendluri Chandana
+## REG: 212223100063
+
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
@@ -55,8 +58,12 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## Output  :
+
+![WhatsApp Image 2024-04-15 at 10 08 12_5098027e](https://github.com/YendluriChandana/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/139842204/5b1af4e1-be0e-40a5-80f9-16a92d97740a)
+
  
- 
+ ![WhatsApp Image 2024-04-15 at 10 08 11_1b96a083](https://github.com/YendluriChandana/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/139842204/ca73157d-e4d1-4129-a42f-5d1411f63482)
+
  
  
 ## Result :
